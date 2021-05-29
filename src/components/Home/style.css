@@ -1,0 +1,13 @@
+.mainHome{
+    background-image: url("https://raw.githubusercontent.com/Hamzah-syed/SpaceX-Application/master/src/assets/images/homeLanding.png");
+    max-width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 19% 0;
+}
